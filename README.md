@@ -14,7 +14,7 @@ The dataset contains the following features:
 - Device Type: Desktop, Mobile, etc.
 - Time of Day: Timestamp of the interaction
 - Clicks: Binary value (1 = clicked, 0 = not clicked)
-Link: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset
+- Link: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset
 
 ## Preprocessing Steps
 Data Cleaning:
@@ -30,13 +30,9 @@ Data Cleaning:
 - Explored differences in click behavior across device types.
 
 ## Results
-Gender Trends:
 - Males had a higher click-through rate than other groups.
-Age Trends:
 - Younger age groups showed higher engagement with ads, while older age groups clicked less frequently.
-Time of Day Insights:
 - Ads received the highest clicks during the morning and evening.
-Device Insights:
 - Mobile devices accounted for more clicks compared to desktops and tablets.
 
 ## Future Improvements
